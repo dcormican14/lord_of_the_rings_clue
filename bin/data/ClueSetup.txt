@@ -1,0 +1,30 @@
+// Rooms and room cards
+Room, The Shire, S 
+Room, Rivendell, R 
+Room, Kazad-dum, K 
+Room, Isengard, I 
+Room, Helm's Deep, H 
+Room, Gondor, G 
+Room, Mordor, M 
+Room, Dead Marshes, D 
+Room, Erebor, E 
+Room, Mirkwood, W
+// other spaces on board
+Space, Water, X 
+Space, Path, P 
+// Person, color, row, col
+PEOPLE
+Gollum,black,25,27
+Saruman,white,16,14
+Sauron,red,29,40
+Frodo,green,2,16
+Gandalf,gray,8,51
+Elrond,yellow,0,39
+// Weapon
+WEAPONS
+The Black Arrow
+Sting
+Durin's Axe
+And�ril
+Witch King's Flail
+Bow of Galadhrim
